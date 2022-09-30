@@ -1,19 +1,19 @@
-[![MasterHead](https://dataintelliage.com/wp-content/uploads/2021/06/392227-what-is-data-science-dataquest.jpg)]
-<h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
+[![MasterHead](https://i0.wp.com/www.mime.asia/wp-content/uploads/2019/09/12.-Top-Data-Analytics-Tools-That-You-Should-Know.jpg?fit=696%2C391&ssl=1)]
+<h1 align="center">Hi ??, I'm Pradeep Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://assets.datacamp.com/production/repositories/5666/datasets/9a5790717ccd1e1f89c427edbd3a20506cdaec68/ds_l.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spradeepgit&label=Profile%20views&color=0e75b6&style=flat" alt="spradeepgit" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- ?? I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- ?? I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spradeepgit](https://github.com/spradeepgit)
+- ????? All of my projects are available at [https://github.com/spradeepgit](https://github.com/spradeepgit)
 
-- 💬 Ask me about **Python, Machine Learning etc.**
+- ?? Ask me about **Python, Machine Learning etc.**
 
-- 📫 How to reach me **spradeep701@gmail.com**
+- ?? How to reach me **spradeep701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
